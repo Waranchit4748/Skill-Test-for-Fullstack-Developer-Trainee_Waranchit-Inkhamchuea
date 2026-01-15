@@ -2,7 +2,7 @@
 
 A comprehensive **Expense Tracker** application developed as part of a **Skill Test for Fullstack Developer Trainee** position. This application allows users to manage their daily expenses, categorize them, and visualize spending habits through an interactive dashboard.
 
-**Live Demo:**
+**Live Demo:** https://skill-test-for-fullstack-developer.vercel.app/
 
 ## Features
 
@@ -34,7 +34,7 @@ A comprehensive **Expense Tracker** application developed as part of a **Skill T
 3. **Set up Environment Variables** Create a .env.local file in the root directory and add your MongoDB connection string:
    MONGODB_URI=your_mongodb_connection_string_here
 
-4. ** Run the development server **
+4. **Run the development server**
    npm run dev
 
 5. Open your browser Navigate to http://localhost:3000 to see the application.
